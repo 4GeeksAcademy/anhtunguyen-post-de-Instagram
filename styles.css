@@ -1,0 +1,40 @@
+body{display: flex;
+    justify-content: center;
+    background-color: black;}
+
+.post{background-color:white; 
+        width:450px;
+        height: 700px;
+        padding: 10px;}
+
+.post-header{display: flex; 
+                align-items: center;
+            }
+.name{font-size: 12px;
+    }
+
+.logohtml{margin-right: 8px;
+    }
+
+.dots{margin-left: 320px;
+        scale: 70%;
+    }
+    
+    
+    
+.post-img{
+        
+        margin: 5px 0 5px;
+        height: 100px;
+        
+    }
+.post-icons{
+        
+        margin-top: 370px;
+        display: flex; 
+        justify-content: space-between;
+        align-items: center;}
+        
+.post-body{
+        font-size: 14px;
+    }
